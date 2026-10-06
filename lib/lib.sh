@@ -42,10 +42,10 @@ export PTERODACTYL_WINGS_VERSION=""
 export PATH="$PATH:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin"
 
 # OS
-export OS=""
-export OS_VER_MAJOR=""
-export CPU_ARCHITECTURE=""
-export ARCH=""
+export OS="Ubuntu"
+export OS_VER_MAJOR="24"
+export CPU_ARCHITECTURE="amd64"
+export ARCH="amd64"
 export SUPPORTED=true
 
 # download URLs
