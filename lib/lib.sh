@@ -46,7 +46,7 @@ export OS=""
 export OS_VER_MAJOR=""
 export CPU_ARCHITECTURE=""
 export ARCH=""
-export SUPPORTED=false
+export SUPPORTED=true
 
 # download URLs
 export PANEL_DL_URL="https://github.com/pterodactyl/panel/releases/latest/download/panel.tar.gz"
